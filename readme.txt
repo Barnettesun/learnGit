@@ -1,2 +1,2 @@
-line 1
-line 2
+Git is a version control system
+Git is free software
